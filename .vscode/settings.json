@@ -1,0 +1,4 @@
+{
+    "prettier.bracketSameLine": true,
+    "editor.maxTokenizationLineLength": 150
+}
